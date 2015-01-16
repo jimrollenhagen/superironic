@@ -4,12 +4,8 @@ superironic
 
 Use ironicclient with multiple Ironic environments, the easy way.
 
-* Free software: Apache license
-* Documentation: http://docs.openstack.org/developer/superironic
-* Source: http://git.openstack.org/cgit/stackforge/superironic
-* Bugs: http://bugs.launchpad.net/ironic
+Honestly, most of this is cribbed from Major Hayden's supernova:
+https://github.com/major/supernova
 
-Features
---------
-
-* TODO
+Not really tested yet; should theoretically work with standard
+auth APIs.
