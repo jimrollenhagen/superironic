@@ -1,0 +1,7 @@
+[run]
+branch = True
+source = superironic
+omit = superironic/tests/*,superironic/openstack/*
+
+[report]
+ignore-errors = True
